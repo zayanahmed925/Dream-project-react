@@ -1,0 +1,79 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "category": "Web-development",
+    "name": "Daniel Ha",
+    "salary": 1300,
+    "img": "https://img.freepik.com/free-photo/happy-young-man-using-laptop-computer_171337-19581.jpg?t=st=1648123285~exp=1648123885~hmac=8a510c1b5e37b3c8dee362b1c86af127023f3c18605a3ba496695c96eaeb2167&w=740.jpg"
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "category": "Software Engineering",
+    "name": "Margaret Hamilton",
+    "salary": 1700,
+    "img": "https://img.freepik.com/free-photo/horizontal-shot-satisfied-smiling-woman-with-dark-wavy-hair-being-good-mood-spends-free-time-home-wears-casual-t-shirt-isolated-pink-background-positive-human-emotions-concept_273609-57670.jpg?w=740.jpg"
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "category": "Software Engineering",
+    "name": "eric hehner",
+    "salary": 1800,
+    "img": "https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?w=740.jpg"
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "category": "Digital marketing",
+    "name": "Miguel de Icaza",
+    "salary": 1100,
+    "img": "https://img.freepik.com/free-photo/attractive-mixed-race-male-with-positive-smile-shows-white-teeth-keeps-hands-stomach-being-high-spirit-wears-white-shirt-rejoices-positive-moments-life-people-emotions-concept_273609-15527.jpg?w=740.jpg"
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "category": "Digital marketing",
+    "name": "Paul Jardetzky",
+    "salary": 1150,
+    "img": "https://img.freepik.com/free-photo/portrait-african-american-man_23-2149072214.jpg?t=st=1648123037~exp=1648123637~hmac=0bc5b9bca261da444e102d5ef6d7a92d5ff910f5d2815b55b0931aaf65411d5d&w=740.jpg"
+  },
+  {
+    "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+    "category": "Accounts",
+    "name": "William Jolitz",
+    "salary": 1050,
+    "img": "https://img.freepik.com/free-photo/photo-attractive-bearded-young-man-with-cherful-expression-makes-okay-gesture-with-both-hands-likes-something-dressed-red-casual-t-shirt-poses-against-white-wall-gestures-indoor_273609-16239.jpg?t=st=1648123391~exp=1648123991~hmac=21ed412d425db63505d0da1457a9783883afb9b1859e2dd8780a0e239a52c2f3&w=740.jpg"
+  },
+  {
+    "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+    "category": "Graphics Designer",
+    "name": "Phil Katz",
+    "salary": 900,
+    "img": "https://img.freepik.com/free-photo/young-woman-with-round-glasses-yellow-sweater_273609-7091.jpg?w=740.jpg"
+  },
+  {
+    "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+    "category": "web Designer",
+    "name": "Bill Joy",
+    "salary": 1200,
+    "img": "https://img.freepik.com/free-photo/portrait-smiling-handsome-man-eyeglasses_171337-4853.jpg?w=740.jpg"
+  },
+  {
+    "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+    "category": "web Designer",
+    "name": "Al Lowe",
+    "salary": 1200,
+    "img": "https://img.freepik.com/free-photo/portrait-young-woman-looking-upset_23-2149219741.jpg?w=740.jpg"
+  },
+  {
+    "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+    "category": "Executive Manager",
+    "name": "Bob Miner",
+    "salary": 2200,
+    "img": "https://img.freepik.com/free-photo/portrait-expressive-african-american-woman_23-2149072231.jpg?w=740.jpg"
+  },
+  {
+    "id": "d0803f97-966f-4296-ad31-a7f70fc86fab",
+    "category": "CEO and Founder",
+    "name": "James G. Mitchell",
+    "salary": 3200,
+    "img": "https://img.freepik.com/free-photo/half-length-shot-cheerful-senior-man-smiles-happily-with-white-teeth-wears-optical-glasses-sweater-isolated-brown-wall_273609-44148.jpg?17&w=740.jpg"
+  }
+]

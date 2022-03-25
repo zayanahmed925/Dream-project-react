@@ -1,0 +1,15 @@
+.header{
+background-color: #5c5c5c;
+height: 80px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.title{
+    margin-top: 0;
+    font-size: 30px;
+    color: white;
+    font-family: "Metamorphous", cursive;
+    
+}

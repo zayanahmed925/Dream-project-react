@@ -1,0 +1,27 @@
+.employee{
+    width: 300px;
+    height: 510px;
+    border:1px solid #95A0A7;
+    border-radius: 8px;
+}
+.employee img{
+    height:286px;
+    width: 286px;
+    border-radius: 10px;
+    padding: 7px;
+}
+.employee-btn{
+    width: 100%;
+    height: 48px;
+    background-color: #FFE0B3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.employee-btn:hover{
+    background-color: orange;
+}
+.icon{
+    font-size: 20px;
+    padding-left: 5px;
+}
